@@ -12,9 +12,5 @@
 ### 3. Run main.py.
 
 
-#### dummy mohitautomation48@gmail.com jeevantara98
-#### emailid - 1kartik10@gmail.com
-#### pass - KartikPoduval1!1
-
 
 
